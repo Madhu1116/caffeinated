@@ -8,7 +8,7 @@ import 'package:velocity_x/velocity_x.dart';
 
 import '../controllers/cart_controller.dart';
 
-class CartView extends GetView<CartController> {
+class CartView extends GetView<CartController> {  
   const CartView({Key? key}) : super(key: key);
 
   @override
